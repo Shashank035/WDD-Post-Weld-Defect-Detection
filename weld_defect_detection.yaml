@@ -1,0 +1,6 @@
+train: C:/Users/vijay/OneDrive/Desktop/WDD/datasets/ir_images/train/images
+val: C:/Users/vijay/OneDrive/Desktop/WDD/datasets/ir_images/valid
+test: C:/Users/vijay/OneDrive/Desktop/WDD/datasets/ir_images/test
+
+nc: 4  # Number of classes
+names: ['porosity', 'crack', 'burn_through', 'undercut']  # Class names
